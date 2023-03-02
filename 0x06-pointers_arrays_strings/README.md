@@ -9,4 +9,8 @@ Tested on Ubuntu 20.04
 Files
 All of the following files are programs written in C:
 
-
+| Filename        | Description           |
+| ------------- |:-------------:|
+| 0-strcat.c	      | Concatenates two strings |
+|1-strncat.c	      | Concatenates two strings, using n bytes from src      |
+| 2-strncpy.c	 |Copies a string      |
