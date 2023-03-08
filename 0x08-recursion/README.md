@@ -1,13 +1,13 @@
-#Recursion
+# Recursion
 
 Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about recursion and how to implement it in **C language**.
 
-##Technologies
-..*C files are compiled using gcc 
-*C files are written according to the C90 standard
-*Tested on Ubuntu 22.04
+## Technologies
+..* C files are compiled using gcc 
+* C files are written according to the C90 standard
+* Tested on Ubuntu 22.04
 
-###Files
+### Files
 
 All of the following files are programs written in C: 
 
