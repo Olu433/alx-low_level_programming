@@ -27,4 +27,8 @@ All of the following folders are projects done during the studies:
 |0x0D-preprocessor	 | It aims to learn about how to include guard in the header files and macros in C language |
 |0x0E-structures_typedef |	It aims to learn about structures and typedef in C language |
 |0x0F-function_pointers | 	It aims to learn about function pointers in C language |
-|0x10-variadic_functions |	It aims to learn about variadic functions in C language |
+|0x10-variadic_functions |	It aims to learn about variadic functions in C language|
+|0x12-singly_linked_lists|	It aims to learn about linked lists in C language|
+|0x13-more_singly_linked_lists	|It aims to learn about singly linked lists in C language|
+|0x14-bit_manipulation	|It aims to learn about how to manipulate bits and use bitwise operators in C language|
+|0x15-file_io	|It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in C language|
