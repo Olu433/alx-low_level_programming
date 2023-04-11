@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_binary - prints the binary representation
@@ -19,4 +19,4 @@ void print_binary(unsigned long int n)
 	{
 		_putchar('0');
 	}
-
+}
