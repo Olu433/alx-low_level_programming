@@ -1,5 +1,5 @@
 # Bit manipulation
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about how to manipulate bits and use bitwise operators in C language.
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about how to manipulate bits and use bitwise operators in **C language**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
