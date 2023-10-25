@@ -1,7 +1,6 @@
 #include "main.h"
 
 /**
- * - Awe Caleb
  * is_prime - detects if an input number is a prime number.
  * @n: input number.
  * @c: iterator.
