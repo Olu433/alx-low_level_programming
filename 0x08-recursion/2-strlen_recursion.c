@@ -4,7 +4,9 @@
  * _strlen_recursion - returns the length of a string.
  * @s: string
  * Return: the length of a string.
+ * - Awe Caleb
  */
+
 int _strlen_recursion(char *s)
 {
 	if (*s == '\0')

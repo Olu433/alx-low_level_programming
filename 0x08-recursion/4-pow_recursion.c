@@ -5,7 +5,9 @@
  * @x: base.
  * @y: exponent.
  * Return: value of the exponentiation.
+ * - Awe Caleb
  */
+
 int _pow_recursion(int x, int y)
 {
 	if (y < 0)

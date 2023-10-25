@@ -1,6 +1,6 @@
 # Recursion
 
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about recursion and how to implement it in **C language**.
+Project done during the  **Software Engineering Course** at **ALX**. It aims to learn about recursion and how to implement it in **C language**.
 
 ## Technologies.
 * C files are compiled using gcc 

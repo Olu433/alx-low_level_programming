@@ -4,6 +4,7 @@
  * factorial - returns the factorial of a given number.
  * @n: input number.
  * Return: factorial of the number.
+ * - Awe Caleb
  */
 int factorial(int n)
 {
