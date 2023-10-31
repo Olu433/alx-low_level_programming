@@ -1,6 +1,6 @@
 # Malloc, free
 
-Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about automatic and dynamic allocation in **C language**.
+Project done during **Full Stack Software Engineering studies** at **ALX**. It aims to learn about automatic and dynamic allocation in **C**.
 
 ## Technologies
 * C files are compiled using gcc
