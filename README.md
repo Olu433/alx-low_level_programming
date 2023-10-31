@@ -2,10 +2,10 @@
 Module of Low-level programming and algorithm, carried out during Full Stack Software Engineering studies at ALX.
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
-* C files are compiled using gcc 4.8.4
+* Scripts written in Bash 
+* C files are compiled using gcc
 * C files are written according to the C90 standard
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 22.04
 ### Projects
 All of the following folders are projects done during the studies:
 
