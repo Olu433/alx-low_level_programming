@@ -29,6 +29,7 @@ void free_listp(listp_t **head)
  *
  * Return: number of nodes in the list.
  */
+
 size_t print_listint_safe(const listint_t *head)
 {
 	size_t nnodes = 0;
